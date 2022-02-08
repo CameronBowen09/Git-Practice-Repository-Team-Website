@@ -4614,6 +4614,7 @@ textarea.form-control-lg {
 .card-img-top {
   border-top-left-radius: calc(0.25rem - 1px);
   border-top-right-radius: calc(0.25rem - 1px);
+  height: 60%;
 }
 
 .card-img,
