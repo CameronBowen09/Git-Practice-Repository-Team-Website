@@ -11318,7 +11318,7 @@ textarea.form-control-lg {
 	flex-direction: column;
 	max-width: 1200px;
 	margin: 0 auto;
-	width: 90%;
+	width: 50%;
 }
 #contact .contact-items {
 	
@@ -11605,3 +11605,5 @@ html {
     display: block;
   }
 }
+
+
